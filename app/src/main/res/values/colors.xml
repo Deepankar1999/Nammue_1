@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- splash___4 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__splash___4_ek2_color">#ffffff</color>
+	<color name="rectangle_99_color">#f5f5f5</color>
+	<color name="________________color">#000000</color>
+	<color name="rectangle_2110_color">#ea2035</color>
+	<color name="____________color">#ffffff</color>
+	<color name="__bg__news___15_ek2_color">#fbfbfb</color>
+	<color name="rectangle_2651_color">#ebffeb</color>
+	<color name="rectangle_2620_color">#000000</color>
+	<color name="ellipse_510_color">#ff0000</color>
+	<color name="______10________color">#10120a</color>
+	<color name="__________________color">#8e8e8e</color>
+	<color name="ellipse_587_color">#707070</color>
+	<color name="_______________ek2_color">#ea2035</color>
+	<color name="_2h_ago__sports__ramanagara_color">#707070</color>
+	<color name="search_color">#748a9d</color>
+	<color name="vegitables_color">#96a7b5</color>
+	<color name="rectangle_2486_color">#2d9701</color>
+	<color name="rectangle_2487_color">#428be9</color>
+	<color name="rectangle_2190_ek1_color">#f6f7f8</color>
+	<color name="ellipse_683_color">#554e56</color>
+	<color name="rectangle_2560_color">#cccccc</color>
+	<color name="rectangle_2562_color">#bcbbbb</color>
+	<color name="rectangle_2564_color">#efefef</color>
+	<color name="rectangle_2565_color">#dddddd</color>
+	<color name="rectangle_2568_color">#ddd3c0</color>
+	<color name="rectangle_2573_color">#d7d6d9</color>
+	<color name="rectangle_2574_color">#fb233b</color>
+	<color name="rectangle_2576_color">#616161</color>
+	<color name="rectangle_2577_color">#bba9a3</color>
+	<color name="rectangle_2582_color">#e40031</color>
+	<color name="rectangle_2583_color">#424242</color>
+	<color name="rectangle_2585_color">#afbdc4</color>
+	<color name="rectangle_2586_color">#90a4ae</color>
+	<color name="rectangle_2587_color">#acabb1</color>
+	<color name="ellipse_684_color">#dd636e</color>
+	<color name="ellipse_686_color">#80b4fb</color>
+	<color name="ellipse_688_color">#78b75b</color>
+	<color name="ellipse_689_color">#ece7ea</color>
+	<color name="ellipse_690_color">#e9eef2</color>
+	<color name="rectangle_path_color">#283593</color>
+	<color name="rectangle_path_ek1_color">#3f51b5</color>
+	<color name="ellipse_691_color">#ee6161</color>
+	<color name="ellipse_693_color">#f9b1b1</color>
+	<color name="search_history_color">#030303</color>
+	<color name="clear_color">#f48c8c</color>
+	<color name="refresh_color">#6055f4</color>
+	<color name="_100_color">#3b4353</color>
+	<color name="______________________________________________________________________ek3_color">#3b241f</color>
+	<color name="rectangle_2485_color">#e4e4e4</color>
+	<color name="rectangle_2490_color">#ffe600</color>
+	<color name="rectangle_2491_color">#00e7ff</color>
+	<color name="rectangle_2492_color">#ea3457</color>
+	<color name="ellipse_667_color">#ebeef2</color>
+	<color name="intro_video_color">#e82136</color>
+	<color name="mp4_video_color">#515151</color>
+	<color name="select_color">#e62338</color>
+	<color name="ellipse_680_color">#0ba700</color>
+</resources>

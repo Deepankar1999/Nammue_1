@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Categories_8">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <ScrollView android:id="@+id/categories___8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <RelativeLayout android:id="@+id/content_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <RelativeLayout android:id="@+id/page_categories___8_ek1"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View android:id="@+id/_bg__categories___8_ek2"
+                        android:background="@drawable/_bg__categories___8_ek2_shape"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="375dp"
+                        android:layout_height="1073dp" />
+
+                    <View android:id="@+id/rectangle_2042_ek6"
+                        android:background="@drawable/rectangle_2042_ek6_shape"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="375dp"
+                        android:layout_height="1073dp" />
+
+
+                    <RelativeLayout android:id="@+id/group_2016_ek11"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginStart="25dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <ImageView android:id="@+id/shape_ek59"
+                            android:src="@drawable/shape_ek59"
+                            android:contentDescription="shape_ek59"
+                            android:layout_marginLeft="300dp"
+                            android:layout_marginStart="300dp"
+                            android:layout_marginTop="2dp"
+                            android:layout_width="21.2919921875dp"
+                            android:layout_height="8.67431640625dp" />
+
+                        <ImageView android:id="@+id/fill_ek11"
+                            android:src="@drawable/fill_ek11"
+                            android:contentDescription="fill_ek11"
+                            android:layout_marginLeft="297dp"
+                            android:layout_marginStart="297dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="26.0234375dp"
+                            android:layout_height="13.40576171875dp" />
+
+                        <ImageView android:id="@+id/shape_ek60"
+                            android:src="@drawable/shape_ek60"
+                            android:contentDescription="shape_ek60"
+                            android:layout_marginLeft="325dp"
+                            android:layout_marginStart="325dp"
+                            android:layout_marginTop="4dp"
+                            android:layout_width="1.57080078125dp"
+                            android:layout_height="4.7314453125dp" />
+
+                        <ImageView android:id="@+id/shape_ek61"
+                            android:src="@drawable/shape_ek61"
+                            android:contentDescription="shape_ek61"
+                            android:layout_marginLeft="273dp"
+                            android:layout_marginStart="273dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="18.0654296875dp"
+                            android:layout_height="12.970703125dp" />
+
+                        <ImageView android:id="@+id/shape_ek62"
+                            android:src="@drawable/shape_ek62"
+                            android:contentDescription="shape_ek62"
+                            android:layout_marginLeft="246dp"
+                            android:layout_marginStart="246dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="20.109375dp"
+                            android:layout_height="12.61767578125dp" />
+
+                        <ImageView android:id="@+id/___time_ek17"
+                            android:src="@drawable/___time_ek17"
+                            android:contentDescription="___time_ek17"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="32.4716796875dp"
+                            android:layout_height="12.2421875dp" />
+
+                    </RelativeLayout>
+
+                    <TextView android:id="@+id/create_your_post"
+                        android:fontFamily="Montserrat"
+                        android:textStyle="bold"
+                        android:layout_gravity="center_horizontal|center"
+                        android:gravity="center"
+                        android:textSize="16sp"
+                        android:textColor="@color/________________color"
+                        android:layout_marginLeft="115dp"
+                        android:layout_marginTop="60dp"
+                        android:layout_width="140dp"
+                        android:layout_height="30dp"
+                        android:text="@string/create_your_post_string"
+                        />
+
+                    <ImageView android:id="@+id/capacity_ek6"
+                        android:src="@drawable/capacity_ek6"
+                        android:contentDescription="capacity_ek6"
+                        android:layout_marginLeft="325dp"
+                        android:layout_marginStart="325dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_width="21.2919921875dp"
+                        android:layout_height="8.67431640625dp" />
+
+                    <ImageView android:id="@+id/border_ek6"
+                        android:src="@drawable/border_ek6"
+                        android:contentDescription="border_ek6"
+                        android:layout_marginLeft="323dp"
+                        android:layout_marginStart="323dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="26.0234375dp"
+                        android:layout_height="13.40576171875dp" />
+
+                    <ImageView android:id="@+id/cap_ek6"
+                        android:src="@drawable/cap_ek6"
+                        android:contentDescription="cap_ek6"
+                        android:layout_marginLeft="350dp"
+                        android:layout_marginStart="350dp"
+                        android:layout_marginTop="14dp"
+                        android:layout_width="1.57080078125dp"
+                        android:layout_height="4.7314453125dp" />
+
+                    <ImageView android:id="@+id/wifi_ek6"
+                        android:src="@drawable/wifi_ek6"
+                        android:contentDescription="wifi_ek6"
+                        android:layout_marginLeft="299dp"
+                        android:layout_marginStart="299dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="18.0654296875dp"
+                        android:layout_height="12.970703125dp" />
+
+                    <ImageView android:id="@+id/cellular_connection_ek6"
+                        android:src="@drawable/cellular_connection_ek6"
+                        android:contentDescription="cellular_connection_ek6"
+                        android:layout_marginLeft="271dp"
+                        android:layout_marginStart="271dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="20.109375dp"
+                        android:layout_height="12.61767578125dp" />
+
+                    <ImageView android:id="@+id/___time_ek18"
+                        android:src="@drawable/___time_ek18"
+                        android:contentDescription="___time_ek18"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginStart="25dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="32.4716796875dp"
+                        android:layout_height="12.2421875dp" />
+
+                    <View android:id="@+id/rectangle_2190_ek10"
+                        android:background="@drawable/rectangle_2190_ek10_shape"
+                        android:layout_marginLeft="27dp"
+                        android:layout_marginStart="27dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp" />
+
+                    <ImageView android:id="@+id/icon_awesome_arrow_left_ek10"
+                        android:src="@drawable/icon_awesome_arrow_left_ek10"
+                        android:contentDescription="icon_awesome_arrow_left_ek10"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginStart="40dp"
+                        android:layout_marginTop="63dp"
+                        android:layout_width="12.2421875dp"
+                        android:layout_height="11.93212890625dp" />
+
+
+                    <RelativeLayout android:id="@+id/group_2350_ek2"
+                        android:layout_marginTop="60dp"
+                        android:layout_marginStart="340dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+
+                        <RelativeLayout android:id="@+id/group_2109_ek5"
+                            android:layout_marginTop="4dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/path_1788_ek5"
+                                android:src="@drawable/path_1788_ek5"
+                                android:contentDescription="path_1788_ek5"
+                                android:layout_marginLeft="-1dp"
+                                android:layout_marginStart="-1dp"
+                                android:layout_marginTop="-1dp"
+                                android:layout_width="18.060546875dp"
+                                android:layout_height="15.3837890625dp" />
+
+                            <ImageView android:id="@+id/path_1789_ek5"
+                                android:src="@drawable/path_1789_ek5"
+                                android:contentDescription="path_1789_ek5"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginStart="5dp"
+                                android:layout_marginTop="16dp"
+                                android:layout_width="5.82080078125dp"
+                                android:layout_height="3.255859375dp" />
+
+                        </RelativeLayout>
+
+                        <View android:id="@+id/ellipse_510_ek5"
+                            android:background="@drawable/ellipse_510_ek5_shape"
+                            android:layout_marginLeft="7dp"
+                            android:layout_marginStart="7dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp" />
+
+                        <TextView android:id="@+id/_3_ek5"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:textColor="@color/____________color"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="6dp"
+                            android:layout_height="21dp"
+                            android:text="@string/_3_ek5_string"
+                            />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2579"
+                        android:layout_marginTop="314dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <View android:id="@+id/rectangle_2502"
+                            android:background="@drawable/rectangle_2502_shape"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="157dp"
+                            android:layout_width="377dp"
+                            android:layout_height="155dp" />
+
+                        <View android:id="@+id/rectangle_2503"
+                            android:background="@drawable/rectangle_2503_shape"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="320dp"
+                            android:layout_width="377dp"
+                            android:layout_height="155dp" />
+
+                        <View android:id="@+id/rectangle_2504"
+                            android:background="@drawable/rectangle_2504_shape"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="483dp"
+                            android:layout_width="377dp"
+                            android:layout_height="155dp" />
+
+                        <TextView android:id="@+id/news_and_information"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="12sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="19dp"
+                            android:layout_marginTop="91dp"
+                            android:layout_width="62dp"
+                            android:layout_height="40dp"
+                            android:text="@string/news_and_information_string"
+                            />
+
+                        <TextView android:id="@+id/news_and_information_ek1"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="20sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginTop="171dp"
+                            android:layout_width="204dp"
+                            android:layout_height="41dp"
+                            android:text="@string/news_and_information_ek1_string"
+                            />
+
+                        <TextView android:id="@+id/free_sales_for_farmers"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="12sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="110dp"
+                            android:layout_marginTop="91dp"
+                            android:layout_width="62dp"
+                            android:layout_height="40dp"
+                            android:text="@string/free_sales_for_farmers_string"
+                            />
+
+                        <TextView android:id="@+id/real_estate__land___sites_"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="12sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="192dp"
+                            android:layout_marginTop="91dp"
+                            android:layout_width="74dp"
+                            android:layout_height="40dp"
+                            android:text="@string/real_estate__land___sites__string"
+                            />
+
+                        <TextView android:id="@+id/paid_ads__classified_"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="12sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="290dp"
+                            android:layout_marginTop="91dp"
+                            android:layout_width="60dp"
+                            android:layout_height="40dp"
+                            android:text="@string/paid_ads__classified__string"
+                            />
+
+
+                        <RelativeLayout android:id="@+id/group_2578"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginStart="16dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View android:id="@+id/rectangle_2496"
+                                android:background="@drawable/rectangle_2496_shape"
+                                android:alpha="0.6"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="73dp"
+                                android:layout_height="73dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2359"
+                                android:layout_marginTop="18dp"
+                                android:layout_marginStart="17dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <ImageView android:id="@+id/path_2151"
+                                    android:src="@drawable/path_2151"
+                                    android:contentDescription="path_2151"
+                                    android:layout_marginLeft="1dp"
+                                    android:layout_marginStart="1dp"
+                                    android:layout_marginTop="1dp"
+                                    android:layout_width="36.296875dp"
+                                    android:layout_height="29.75146484375dp" />
+
+                                <ImageView android:id="@+id/path_2152"
+                                    android:src="@drawable/path_2152"
+                                    android:contentDescription="path_2152"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="37.48779296875dp"
+                                    android:layout_height="30.94091796875dp" />
+
+                            </RelativeLayout>
+
+                            <ImageView android:id="@+id/path_2153"
+                                android:src="@drawable/path_2153"
+                                android:contentDescription="path_2153"
+                                android:layout_marginLeft="22dp"
+                                android:layout_marginStart="22dp"
+                                android:layout_marginTop="27dp"
+                                android:layout_width="32.1318359375dp"
+                                android:layout_height="25.5859375dp" />
+
+                            <ImageView android:id="@+id/path_2154"
+                                android:src="@drawable/path_2154"
+                                android:contentDescription="path_2154"
+                                android:layout_marginLeft="21dp"
+                                android:layout_marginStart="21dp"
+                                android:layout_marginTop="27dp"
+                                android:layout_width="33.32177734375dp"
+                                android:layout_height="26.7763671875dp" />
+
+                            <View android:id="@+id/rectangle_2490"
+                                android:background="@drawable/rectangle_2490_shape"
+                                android:layout_marginLeft="25dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginTop="39dp"
+                                android:layout_width="10.115234375dp"
+                                android:layout_height="5.9501953125dp" />
+
+                            <ImageView android:id="@+id/path_2155"
+                                android:src="@drawable/path_2155"
+                                android:contentDescription="path_2155"
+                                android:layout_marginLeft="24dp"
+                                android:layout_marginStart="24dp"
+                                android:layout_marginTop="38dp"
+                                android:layout_width="11.3056640625dp"
+                                android:layout_height="7.14013671875dp" />
+
+                            <View android:id="@+id/rectangle_2491"
+                                android:background="@drawable/rectangle_2491_shape"
+                                android:layout_marginLeft="36dp"
+                                android:layout_marginStart="36dp"
+                                android:layout_marginTop="39dp"
+                                android:layout_width="14.8759765625dp"
+                                android:layout_height="1.18994140625dp" />
+
+                            <View android:id="@+id/rectangle_2492"
+                                android:background="@drawable/rectangle_2492_shape"
+                                android:layout_marginLeft="36dp"
+                                android:layout_marginStart="36dp"
+                                android:layout_marginTop="44dp"
+                                android:layout_width="14.8759765625dp"
+                                android:layout_height="1.18994140625dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2360"
+                                android:layout_marginTop="41dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <View android:id="@+id/rectangle_2493"
+                                    android:background="@drawable/rectangle_2493_shape"
+                                    android:layout_marginLeft="12dp"
+                                    android:layout_marginStart="12dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="14.8759765625dp"
+                                    android:layout_height="1.18994140625dp" />
+
+                                <View android:id="@+id/rectangle_2494"
+                                    android:background="@drawable/rectangle_2494_shape"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="5dp"
+                                    android:layout_width="26.7763671875dp"
+                                    android:layout_height="1.18994140625dp" />
+
+                            </RelativeLayout>
+
+                            <View android:id="@+id/rectangle_2495"
+                                android:background="@drawable/rectangle_2495_shape"
+                                android:layout_marginLeft="25dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginTop="49dp"
+                                android:layout_width="26.7763671875dp"
+                                android:layout_height="1.18994140625dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2361"
+                                android:layout_marginTop="31dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <ImageView android:id="@+id/path_2156"
+                                    android:src="@drawable/path_2156"
+                                    android:contentDescription="path_2156"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="3.9423828125dp"
+                                    android:layout_height="5.13916015625dp" />
+
+                                <ImageView android:id="@+id/path_2157"
+                                    android:src="@drawable/path_2157"
+                                    android:contentDescription="path_2157"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginStart="5dp"
+                                    android:layout_marginTop="1dp"
+                                    android:layout_width="3.09912109375dp"
+                                    android:layout_height="3.6787109375dp" />
+
+                                <ImageView android:id="@+id/path_2158"
+                                    android:src="@drawable/path_2158"
+                                    android:contentDescription="path_2158"
+                                    android:layout_marginLeft="8dp"
+                                    android:layout_marginStart="8dp"
+                                    android:layout_marginTop="1dp"
+                                    android:layout_width="4.94873046875dp"
+                                    android:layout_height="3.6708984375dp" />
+
+                                <ImageView android:id="@+id/path_2159"
+                                    android:src="@drawable/path_2159"
+                                    android:contentDescription="path_2159"
+                                    android:layout_marginLeft="14dp"
+                                    android:layout_marginStart="14dp"
+                                    android:layout_marginTop="1dp"
+                                    android:layout_width="2.7529296875dp"
+                                    android:layout_height="3.72900390625dp" />
+
+                            </RelativeLayout>
+
+                        </RelativeLayout>
+
+                        <View android:id="@+id/rectangle_2497"
+                            android:background="@drawable/rectangle_2497_shape"
+                            android:alpha="0.6"
+                            android:layout_marginLeft="107dp"
+                            android:layout_marginStart="107dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="73dp"
+                            android:layout_height="73dp" />
+
+
+                        <RelativeLayout android:id="@+id/group_2362"
+                            android:layout_marginTop="21dp"
+                            android:layout_marginStart="118dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+
+                            <RelativeLayout android:id="@+id/group_2362_ek1"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginStart="12dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <ImageView android:id="@+id/path_2160"
+                                    android:src="@drawable/path_2160"
+                                    android:contentDescription="path_2160"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="27.4990234375dp"
+                                    android:layout_height="24.283203125dp" />
+
+                                <ImageView android:id="@+id/path_2161"
+                                    android:src="@drawable/path_2161"
+                                    android:contentDescription="path_2161"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="14dp"
+                                    android:layout_width="27.49853515625dp"
+                                    android:layout_height="10.73583984375dp" />
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2363"
+                                android:layout_marginTop="2dp"
+                                android:layout_marginStart="7dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <ImageView android:id="@+id/path_2162"
+                                    android:src="@drawable/path_2162"
+                                    android:contentDescription="path_2162"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="29.95947265625dp"
+                                    android:layout_height="26.20556640625dp" />
+
+                                <ImageView android:id="@+id/path_2163"
+                                    android:src="@drawable/path_2163"
+                                    android:contentDescription="path_2163"
+                                    android:layout_marginLeft="14dp"
+                                    android:layout_marginStart="14dp"
+                                    android:layout_marginTop="17dp"
+                                    android:layout_width="16.11865234375dp"
+                                    android:layout_height="9.56494140625dp" />
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2365"
+                                android:layout_marginTop="18dp"
+                                android:layout_marginStart="11dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+
+                                <RelativeLayout android:id="@+id/group_2364"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    >
+
+                                    <ImageView android:id="@+id/path_2164"
+                                        android:src="@drawable/path_2164"
+                                        android:contentDescription="path_2164"
+                                        android:layout_marginLeft="0dp"
+                                        android:layout_marginStart="0dp"
+                                        android:layout_marginTop="0dp"
+                                        android:layout_width="3.966796875dp"
+                                        android:layout_height="4.1357421875dp" />
+
+                                    <ImageView android:id="@+id/path_2165"
+                                        android:src="@drawable/path_2165"
+                                        android:contentDescription="path_2165"
+                                        android:layout_marginLeft="3dp"
+                                        android:layout_marginStart="3dp"
+                                        android:layout_marginTop="1dp"
+                                        android:layout_width="4.431640625dp"
+                                        android:layout_height="4.75dp" />
+
+                                    <ImageView android:id="@+id/path_2166"
+                                        android:src="@drawable/path_2166"
+                                        android:contentDescription="path_2166"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_marginStart="5dp"
+                                        android:layout_marginTop="3dp"
+                                        android:layout_width="4.79150390625dp"
+                                        android:layout_height="5.22509765625dp" />
+
+                                    <ImageView android:id="@+id/path_2167"
+                                        android:src="@drawable/path_2167"
+                                        android:contentDescription="path_2167"
+                                        android:layout_marginLeft="8dp"
+                                        android:layout_marginStart="8dp"
+                                        android:layout_marginTop="5dp"
+                                        android:layout_width="4.8701171875dp"
+                                        android:layout_height="5.32861328125dp" />
+
+                                </RelativeLayout>
+
+                            </RelativeLayout>
+
+                            <ImageView android:id="@+id/path_2168"
+                                android:src="@drawable/path_2168"
+                                android:contentDescription="path_2168"
+                                android:layout_marginLeft="15dp"
+                                android:layout_marginStart="15dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="19.79296875dp"
+                                android:layout_height="12.29638671875dp" />
+
+                            <ImageView android:id="@+id/path_2169"
+                                android:src="@drawable/path_2169"
+                                android:contentDescription="path_2169"
+                                android:layout_marginLeft="37dp"
+                                android:layout_marginStart="37dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="9.2177734375dp"
+                                android:layout_height="19.17529296875dp" />
+
+                            <ImageView android:id="@+id/path_2170"
+                                android:src="@drawable/path_2170"
+                                android:contentDescription="path_2170"
+                                android:layout_marginLeft="39dp"
+                                android:layout_marginStart="39dp"
+                                android:layout_marginTop="16dp"
+                                android:layout_width="7.6259765625dp"
+                                android:layout_height="3.65576171875dp" />
+
+                            <ImageView android:id="@+id/path_2171"
+                                android:src="@drawable/path_2171"
+                                android:contentDescription="path_2171"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="9.2177734375dp"
+                                android:layout_height="19.17529296875dp" />
+
+                            <ImageView android:id="@+id/path_2172"
+                                android:src="@drawable/path_2172"
+                                android:contentDescription="path_2172"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="17dp"
+                                android:layout_width="7.56787109375dp"
+                                android:layout_height="3.18212890625dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2366"
+                                android:layout_marginTop="15dp"
+                                android:layout_marginStart="3dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <View android:id="@+id/ellipse_667"
+                                    android:background="@drawable/ellipse_667_shape"
+                                    android:layout_marginLeft="38dp"
+                                    android:layout_marginStart="38dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="2.6728515625dp"
+                                    android:layout_height="2.6728515625dp" />
+
+                                <View android:id="@+id/ellipse_668"
+                                    android:background="@drawable/ellipse_668_shape"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="2.6728515625dp"
+                                    android:layout_height="2.6728515625dp" />
+
+                            </RelativeLayout>
+
+                            <ImageView android:id="@+id/path_2173"
+                                android:src="@drawable/path_2173"
+                                android:contentDescription="path_2173"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="24.56298828125dp"
+                                android:layout_height="29.119140625dp" />
+
+                            <ImageView android:id="@+id/path_2174"
+                                android:src="@drawable/path_2174"
+                                android:contentDescription="path_2174"
+                                android:layout_marginLeft="15dp"
+                                android:layout_marginStart="15dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="32.5703125dp"
+                                android:layout_height="26.8681640625dp" />
+
+                            <ImageView android:id="@+id/path_2175"
+                                android:src="@drawable/path_2175"
+                                android:contentDescription="path_2175"
+                                android:layout_marginLeft="41dp"
+                                android:layout_marginStart="41dp"
+                                android:layout_marginTop="14dp"
+                                android:layout_width="4.0556640625dp"
+                                android:layout_height="4.0556640625dp" />
+
+                            <ImageView android:id="@+id/path_2176"
+                                android:src="@drawable/path_2176"
+                                android:contentDescription="path_2176"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
+                                android:layout_marginTop="14dp"
+                                android:layout_width="4.0556640625dp"
+                                android:layout_height="4.0556640625dp" />
+
+                        </RelativeLayout>
+
+                        <View android:id="@+id/rectangle_2498"
+                            android:background="@drawable/rectangle_2498_shape"
+                            android:alpha="0.6"
+                            android:layout_marginLeft="195dp"
+                            android:layout_marginStart="195dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="73dp"
+                            android:layout_height="73dp" />
+
+                        <View android:id="@+id/rectangle_2639"
+                            android:background="@drawable/rectangle_2639_shape"
+                            android:alpha="0.6"
+                            android:layout_marginLeft="286dp"
+                            android:layout_marginStart="286dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="73dp"
+                            android:layout_height="73dp" />
+
+
+                        <RelativeLayout android:id="@+id/online_advertising"
+                            android:layout_marginTop="18dp"
+                            android:layout_marginStart="305dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/path_2177"
+                                android:src="@drawable/path_2177"
+                                android:contentDescription="path_2177"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="27.888671875dp"
+                                android:layout_height="24.78955078125dp" />
+
+                            <ImageView android:id="@+id/path_2178"
+                                android:src="@drawable/path_2178"
+                                android:contentDescription="path_2178"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="27.888671875dp"
+                                android:layout_height="5.92822265625dp" />
+
+                            <ImageView android:id="@+id/path_2179"
+                                android:src="@drawable/path_2179"
+                                android:contentDescription="path_2179"
+                                android:layout_marginLeft="4dp"
+                                android:layout_marginStart="4dp"
+                                android:layout_marginTop="10dp"
+                                android:layout_width="16.70654296875dp"
+                                android:layout_height="10.2392578125dp" />
+
+                            <ImageView android:id="@+id/path_2180"
+                                android:src="@drawable/path_2180"
+                                android:contentDescription="path_2180"
+                                android:layout_marginLeft="19dp"
+                                android:layout_marginStart="19dp"
+                                android:layout_marginTop="19dp"
+                                android:layout_width="15.24609375dp"
+                                android:layout_height="15.24560546875dp" />
+
+                            <ImageView android:id="@+id/path_2181"
+                                android:src="@drawable/path_2181"
+                                android:contentDescription="path_2181"
+                                android:layout_marginLeft="4dp"
+                                android:layout_marginStart="4dp"
+                                android:layout_marginTop="3dp"
+                                android:layout_width="1.35009765625dp"
+                                android:layout_height="1.34716796875dp" />
+
+                            <ImageView android:id="@+id/path_2182"
+                                android:src="@drawable/path_2182"
+                                android:contentDescription="path_2182"
+                                android:layout_marginLeft="7dp"
+                                android:layout_marginStart="7dp"
+                                android:layout_marginTop="3dp"
+                                android:layout_width="1.3505859375dp"
+                                android:layout_height="1.34716796875dp" />
+
+                            <ImageView android:id="@+id/path_2183"
+                                android:src="@drawable/path_2183"
+                                android:contentDescription="path_2183"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="3dp"
+                                android:layout_width="1.3505859375dp"
+                                android:layout_height="1.34716796875dp" />
+
+                            <ImageView android:id="@+id/path_2184"
+                                android:src="@drawable/path_2184"
+                                android:contentDescription="path_2184"
+                                android:layout_marginLeft="15dp"
+                                android:layout_marginStart="15dp"
+                                android:layout_marginTop="3dp"
+                                android:layout_width="10.72705078125dp"
+                                android:layout_height="1.34716796875dp" />
+
+                            <ImageView android:id="@+id/path_2185"
+                                android:src="@drawable/path_2185"
+                                android:contentDescription="path_2185"
+                                android:layout_marginLeft="28dp"
+                                android:layout_marginStart="28dp"
+                                android:layout_marginTop="18dp"
+                                android:layout_width="1.34765625dp"
+                                android:layout_height="1.3466796875dp" />
+
+                            <ImageView android:id="@+id/path_2186"
+                                android:src="@drawable/path_2186"
+                                android:contentDescription="path_2186"
+                                android:layout_marginLeft="13dp"
+                                android:layout_marginStart="13dp"
+                                android:layout_marginTop="12dp"
+                                android:layout_width="4.611328125dp"
+                                android:layout_height="6.197265625dp" />
+
+                            <ImageView android:id="@+id/path_2187"
+                                android:src="@drawable/path_2187"
+                                android:contentDescription="path_2187"
+                                android:layout_marginLeft="7dp"
+                                android:layout_marginStart="7dp"
+                                android:layout_marginTop="12dp"
+                                android:layout_width="4.61181640625dp"
+                                android:layout_height="6.19775390625dp" />
+
+                            <ImageView android:id="@+id/path_2188"
+                                android:src="@drawable/path_2188"
+                                android:contentDescription="path_2188"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="34.4912109375dp"
+                                android:layout_height="34.490234375dp" />
+
+                            <ImageView android:id="@+id/path_2189"
+                                android:src="@drawable/path_2189"
+                                android:contentDescription="path_2189"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginStart="3dp"
+                                android:layout_marginTop="22dp"
+                                android:layout_width="5.951171875dp"
+                                android:layout_height="1.34716796875dp" />
+
+                            <ImageView android:id="@+id/path_2190"
+                                android:src="@drawable/path_2190"
+                                android:contentDescription="path_2190"
+                                android:layout_marginLeft="11dp"
+                                android:layout_marginStart="11dp"
+                                android:layout_marginTop="22dp"
+                                android:layout_width="1.34716796875dp"
+                                android:layout_height="1.34716796875dp" />
+
+                        </RelativeLayout>
+
+                        <TextView android:id="@+id/sales"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="20sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginTop="334dp"
+                            android:layout_width="48dp"
+                            android:layout_height="41dp"
+                            android:text="@string/sales_string"
+                            />
+
+                        <TextView android:id="@+id/paid_ads"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="20sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginTop="496dp"
+                            android:layout_width="82dp"
+                            android:layout_height="41dp"
+                            android:text="@string/paid_ads_string"
+                            />
+
+                        <TextView android:id="@+id/news_is_information_about_current_events__this_may_be_provided_through_many_different_media__word_of_mouth__printing__postal_systems__broadcasting__electronic_communication__or_through_the_testimony_of_observers_and_witnesses_to_events_"
+                            android:fontFamily="Nunito"
+                            android:textSize="16sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="214dp"
+                            android:layout_width="344dp"
+                            android:layout_height="102dp"
+                            android:text="@string/news_is_information_about_current_events__this_may_be_provided_through_many_different_media__word_of_mouth__printing__postal_systems__broadcasting__electronic_communication__or_through_the_testimony_of_observers_and_witnesses_to_events__string"
+                            />
+
+                        <TextView android:id="@+id/sales_are_activities_related_to_selling_or_the_number_of_goods_sold_in_a_given_targeted_time_period__the_delivery_of_a_service_for_a_cost_is_also_considered_a_sale_"
+                            android:fontFamily="Nunito"
+                            android:textSize="16sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="371dp"
+                            android:layout_width="344dp"
+                            android:layout_height="102dp"
+                            android:text="@string/sales_are_activities_related_to_selling_or_the_number_of_goods_sold_in_a_given_targeted_time_period__the_delivery_of_a_service_for_a_cost_is_also_considered_a_sale__string"
+                            />
+
+                        <TextView android:id="@+id/the_page__paid_ads__does_not_exist__you_can_ask_for_it_to_be_created__but_consider_checking_the_search_results_below_to_see_whether_the_topic_is_already_covered_"
+                            android:fontFamily="Nunito"
+                            android:textSize="16sp"
+                            android:textColor="@color/________________color"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="533dp"
+                            android:layout_width="344dp"
+                            android:layout_height="102dp"
+                            android:text="@string/the_page__paid_ads__does_not_exist__you_can_ask_for_it_to_be_created__but_consider_checking_the_search_results_below_to_see_whether_the_topic_is_already_covered__string"
+                            />
+
+
+                        <RelativeLayout android:id="@+id/house__1_"
+                            android:layout_marginTop="16dp"
+                            android:layout_marginStart="210dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/path_2563"
+                                android:src="@drawable/path_2563"
+                                android:contentDescription="path_2563"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="4dp"
+                                android:layout_width="4.11572265625dp"
+                                android:layout_height="7.27197265625dp" />
+
+                            <ImageView android:id="@+id/path_2564"
+                                android:src="@drawable/path_2564"
+                                android:contentDescription="path_2564"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="4dp"
+                                android:layout_width="4.1044921875dp"
+                                android:layout_height="7.27197265625dp" />
+
+                            <ImageView android:id="@+id/path_2565"
+                                android:src="@drawable/path_2565"
+                                android:contentDescription="path_2565"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="4dp"
+                                android:layout_width="22.03955078125dp"
+                                android:layout_height="26.85302734375dp" />
+
+                            <ImageView android:id="@+id/path_2566"
+                                android:src="@drawable/path_2566"
+                                android:contentDescription="path_2566"
+                                android:layout_marginLeft="19dp"
+                                android:layout_marginStart="19dp"
+                                android:layout_marginTop="4dp"
+                                android:layout_width="12.85791015625dp"
+                                android:layout_height="26.82421875dp" />
+
+                            <ImageView android:id="@+id/path_2567"
+                                android:src="@drawable/path_2567"
+                                android:contentDescription="path_2567"
+                                android:layout_marginLeft="4dp"
+                                android:layout_marginStart="4dp"
+                                android:layout_marginTop="1dp"
+                                android:layout_width="32.7890625dp"
+                                android:layout_height="17.025390625dp" />
+
+                            <ImageView android:id="@+id/path_2568"
+                                android:src="@drawable/path_2568"
+                                android:contentDescription="path_2568"
+                                android:layout_marginLeft="4dp"
+                                android:layout_marginStart="4dp"
+                                android:layout_marginTop="2dp"
+                                android:layout_width="32.78759765625dp"
+                                android:layout_height="15.25732421875dp" />
+
+                            <ImageView android:id="@+id/path_2569"
+                                android:src="@drawable/path_2569"
+                                android:contentDescription="path_2569"
+                                android:layout_marginLeft="17dp"
+                                android:layout_marginStart="17dp"
+                                android:layout_marginTop="17dp"
+                                android:layout_width="6.630859375dp"
+                                android:layout_height="13.86279296875dp" />
+
+                            <ImageView android:id="@+id/path_2570"
+                                android:src="@drawable/path_2570"
+                                android:contentDescription="path_2570"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginStart="20dp"
+                                android:layout_marginTop="17dp"
+                                android:layout_width="3.69287109375dp"
+                                android:layout_height="13.8583984375dp" />
+
+                            <ImageView android:id="@+id/path_2571"
+                                android:src="@drawable/path_2571"
+                                android:contentDescription="path_2571"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
+                                android:layout_marginTop="22dp"
+                                android:layout_width="38.5068359375dp"
+                                android:layout_height="15.88427734375dp" />
+
+                            <ImageView android:id="@+id/path_2572"
+                                android:src="@drawable/path_2572"
+                                android:contentDescription="path_2572"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
+                                android:layout_marginTop="25dp"
+                                android:layout_width="38.50634765625dp"
+                                android:layout_height="12.896484375dp" />
+
+                            <ImageView android:id="@+id/path_2573"
+                                android:src="@drawable/path_2573"
+                                android:contentDescription="path_2573"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginStart="1dp"
+                                android:layout_marginTop="19dp"
+                                android:layout_width="5.041015625dp"
+                                android:layout_height="17.18603515625dp" />
+
+                            <ImageView android:id="@+id/path_2574"
+                                android:src="@drawable/path_2574"
+                                android:contentDescription="path_2574"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
+                                android:layout_marginTop="19dp"
+                                android:layout_width="3.78125dp"
+                                android:layout_height="17.18603515625dp" />
+
+                            <ImageView android:id="@+id/path_2575"
+                                android:src="@drawable/path_2575"
+                                android:contentDescription="path_2575"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="41.5439453125dp"
+                                android:layout_height="38.06103515625dp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/group_2340_ek9"
+                            android:layout_marginTop="641dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/union_2_ek12"
+                                android:src="@drawable/union_2_ek12"
+                                android:contentDescription="union_2_ek12"
+                                android:layout_marginLeft="-15dp"
+                                android:layout_marginStart="-15dp"
+                                android:layout_marginTop="22dp"
+                                android:layout_width="405.00048828125dp"
+                                android:layout_height="111dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2306_ek12"
+                                android:layout_marginTop="64dp"
+                                android:layout_marginStart="246dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <TextView android:id="@+id/search_ek12"
+                                    android:fontFamily="Nunito"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textColor="@color/search_color"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginTop="30dp"
+                                    android:layout_width="30dp"
+                                    android:layout_height="21dp"
+                                    android:text="@string/search_ek12_string"
+                                    />
+
+
+                                <RelativeLayout android:id="@+id/icon_feather_search_ek12"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_marginStart="3dp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    >
+
+                                    <ImageView android:id="@+id/path_1985_ek12"
+                                        android:src="@drawable/path_1985_ek12"
+                                        android:contentDescription="path_1985_ek12"
+                                        android:layout_marginLeft="2dp"
+                                        android:layout_marginStart="2dp"
+                                        android:layout_marginTop="-1dp"
+                                        android:layout_width="22.78369140625dp"
+                                        android:layout_height="22.7841796875dp" />
+
+                                    <ImageView android:id="@+id/path_1986_ek12"
+                                        android:src="@drawable/path_1986_ek12"
+                                        android:contentDescription="path_1986_ek12"
+                                        android:layout_marginLeft="-1dp"
+                                        android:layout_marginStart="-1dp"
+                                        android:layout_marginTop="18dp"
+                                        android:layout_width="7.33642578125dp"
+                                        android:layout_height="7.3369140625dp" />
+
+                                </RelativeLayout>
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2305_ek12"
+                                android:layout_marginTop="64dp"
+                                android:layout_marginStart="94dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <TextView android:id="@+id/favorites_ek12"
+                                    android:fontFamily="Nunito"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textColor="@color/search_color"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginTop="30dp"
+                                    android:layout_width="40dp"
+                                    android:layout_height="21dp"
+                                    android:text="@string/favorites_ek12_string"
+                                    />
+
+                                <ImageView android:id="@+id/icon_metro_heart_ek24"
+                                    android:src="@drawable/icon_metro_heart_ek24"
+                                    android:contentDescription="icon_metro_heart_ek24"
+                                    android:layout_marginLeft="6dp"
+                                    android:layout_marginStart="6dp"
+                                    android:layout_marginTop="-0dp"
+                                    android:layout_width="27.87646484375dp"
+                                    android:layout_height="26.2783203125dp" />
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2309_ek12"
+                                android:layout_marginTop="64dp"
+                                android:layout_marginStart="24dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <TextView android:id="@+id/home_ek12"
+                                    android:fontFamily="Nunito"
+                                    android:textStyle="bold"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textColor="@color/_______________ek2_color"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginTop="30dp"
+                                    android:layout_width="28dp"
+                                    android:layout_height="21dp"
+                                    android:text="@string/home_ek12_string"
+                                    />
+
+                                <ImageView android:id="@+id/icon_open_home_ek12"
+                                    android:src="@drawable/icon_open_home_ek12"
+                                    android:contentDescription="icon_open_home_ek12"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginStart="-2dp"
+                                    android:layout_marginTop="-1dp"
+                                    android:layout_width="32.4912109375dp"
+                                    android:layout_height="26.875dp" />
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2307_ek12"
+                                android:layout_marginTop="66dp"
+                                android:layout_marginStart="316dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <TextView android:id="@+id/settings_ek12"
+                                    android:fontFamily="Nunito"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textColor="@color/search_color"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginTop="26dp"
+                                    android:layout_width="36dp"
+                                    android:layout_height="21dp"
+                                    android:text="@string/settings_ek12_string"
+                                    />
+
+
+                                <RelativeLayout android:id="@+id/group_2304_ek12"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_marginStart="3dp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    >
+
+                                    <ImageView android:id="@+id/path_2140_ek12"
+                                        android:src="@drawable/path_2140_ek12"
+                                        android:contentDescription="path_2140_ek12"
+                                        android:layout_marginLeft="-1dp"
+                                        android:layout_marginStart="-1dp"
+                                        android:layout_marginTop="-1dp"
+                                        android:layout_width="30.6982421875dp"
+                                        android:layout_height="1dp" />
+
+                                    <ImageView android:id="@+id/path_2141_ek12"
+                                        android:src="@drawable/path_2141_ek12"
+                                        android:contentDescription="path_2141_ek12"
+                                        android:layout_marginLeft="-1dp"
+                                        android:layout_marginStart="-1dp"
+                                        android:layout_marginTop="10dp"
+                                        android:layout_width="30.6982421875dp"
+                                        android:layout_height="1dp" />
+
+                                    <ImageView android:id="@+id/path_2142_ek12"
+                                        android:src="@drawable/path_2142_ek12"
+                                        android:contentDescription="path_2142_ek12"
+                                        android:layout_marginLeft="-1dp"
+                                        android:layout_marginStart="-1dp"
+                                        android:layout_marginTop="20dp"
+                                        android:layout_width="30.6982421875dp"
+                                        android:layout_height="1dp" />
+
+                                </RelativeLayout>
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2312_ek12"
+                                android:layout_marginTop="56dp"
+                                android:layout_marginStart="165dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <TextView android:id="@+id/your_posts_ek12"
+                                    android:fontFamily="Nunito"
+                                    android:textStyle="bold"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textColor="@color/search_color"
+                                    android:layout_marginLeft="-2dp"
+                                    android:layout_marginTop="38dp"
+                                    android:layout_width="50dp"
+                                    android:layout_height="21dp"
+                                    android:text="@string/your_posts_ek12_string"
+                                    />
+
+                                <ImageView android:id="@+id/writing_ek12"
+                                    android:src="@drawable/writing_ek12"
+                                    android:contentDescription="writing_ek12"
+                                    android:layout_marginLeft="3dp"
+                                    android:layout_marginStart="3dp"
+                                    android:layout_marginTop="-1dp"
+                                    android:layout_width="43.72509765625dp"
+                                    android:layout_height="35.791015625dp" />
+
+                            </RelativeLayout>
+
+
+                            <RelativeLayout android:id="@+id/group_2314_ek12"
+                                android:layout_marginTop="0dp"
+                                android:layout_marginStart="17dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <View android:id="@+id/rectangle_2338_ek12"
+                                    android:background="@drawable/rectangle_2338_ek12_shape"
+                                    android:layout_marginLeft="0dp"
+                                    android:layout_marginStart="0dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="343dp"
+                                    android:layout_height="53dp" />
+
+
+                                <RelativeLayout android:id="@+id/group_2313_ek12"
+                                    android:layout_marginTop="6dp"
+                                    android:layout_marginStart="296dp"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    >
+
+                                    <View android:id="@+id/ellipse_620_ek12"
+                                        android:background="@drawable/ellipse_620_ek12_shape"
+                                        android:layout_marginLeft="0dp"
+                                        android:layout_marginStart="0dp"
+                                        android:layout_marginTop="0dp"
+                                        android:layout_width="41dp"
+                                        android:layout_height="41dp" />
+
+                                    <ImageView android:id="@+id/icon_material_edit_ek13"
+                                        android:src="@drawable/icon_material_edit_ek13"
+                                        android:contentDescription="icon_material_edit_ek13"
+                                        android:layout_marginLeft="11dp"
+                                        android:layout_marginStart="11dp"
+                                        android:layout_marginTop="11dp"
+                                        android:layout_width="17.00390625dp"
+                                        android:layout_height="17.00390625dp" />
+
+                                </RelativeLayout>
+
+                                <TextView android:id="@+id/_________________________________________________________________________ek12"
+                                    android:fontFamily="Montserrat"
+                                    android:textStyle="bold"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textSize="11sp"
+                                    android:textColor="@color/_______________ek2_color"
+                                    android:layout_marginLeft="30dp"
+                                    android:layout_marginTop="11dp"
+                                    android:layout_width="244dp"
+                                    android:layout_height="37.5dp"
+                                    android:text="@string/_________________________________________________________________________ek12_string"
+                                    />
+
+                            </RelativeLayout>
+
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2581"
+                        android:layout_marginTop="98dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+
+                        <RelativeLayout android:id="@+id/group_2580"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/image_113"
+                                android:src="@drawable/image_113"
+                                android:contentDescription="image_113"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="375dp"
+                                android:layout_height="188dp" />
+
+
+                            <RelativeLayout android:id="@+id/group_2532"
+                                android:layout_marginTop="45dp"
+                                android:layout_marginStart="141dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                >
+
+                                <ImageView android:id="@+id/icon_awesome_play_circle_ek23"
+                                    android:src="@drawable/icon_awesome_play_circle_ek23"
+                                    android:contentDescription="icon_awesome_play_circle_ek23"
+                                    android:layout_marginLeft="11dp"
+                                    android:layout_marginStart="11dp"
+                                    android:layout_marginTop="27dp"
+                                    android:layout_width="71.970703125dp"
+                                    android:layout_height="71.970703125dp" />
+
+                                <TextView android:id="@+id/intro_video"
+                                    android:fontFamily="Montserrat"
+                                    android:textStyle="bold"
+                                    android:layout_gravity="center_horizontal|center"
+                                    android:gravity="center"
+                                    android:textSize="16sp"
+                                    android:textColor="@color/intro_video_color"
+                                    android:layout_marginLeft="-3dp"
+                                    android:layout_marginTop="0dp"
+                                    android:layout_width="94dp"
+                                    android:layout_height="30dp"
+                                    android:text="@string/intro_video_string"
+                                    />
+
+                            </RelativeLayout>
+
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+                <RelativeLayout android:id="@+id/group_2340_ek15"
+                    android:layout_marginTop="1449dp"
+                    android:layout_marginStart="1287dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/union_2_ek18"
+                        android:src="@drawable/union_2_ek18"
+                        android:contentDescription="union_2_ek18"
+                        android:layout_marginLeft="-15dp"
+                        android:layout_marginStart="-15dp"
+                        android:layout_marginTop="22dp"
+                        android:layout_width="405dp"
+                        android:layout_height="111dp" />
+
+
+                    <RelativeLayout android:id="@+id/group_2306_ek18"
+                        android:layout_marginTop="64dp"
+                        android:layout_marginStart="246dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/search_ek18"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textColor="@color/search_color"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginTop="30dp"
+                            android:layout_width="30dp"
+                            android:layout_height="21dp"
+                            android:text="@string/search_ek18_string"
+                            />
+
+
+                        <RelativeLayout android:id="@+id/icon_feather_search_ek18"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginStart="3dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/path_1985_ek18"
+                                android:src="@drawable/path_1985_ek18"
+                                android:contentDescription="path_1985_ek18"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
+                                android:layout_marginTop="-1dp"
+                                android:layout_width="22.7841796875dp"
+                                android:layout_height="22.7841796875dp" />
+
+                            <ImageView android:id="@+id/path_1986_ek18"
+                                android:src="@drawable/path_1986_ek18"
+                                android:contentDescription="path_1986_ek18"
+                                android:layout_marginLeft="-1dp"
+                                android:layout_marginStart="-1dp"
+                                android:layout_marginTop="18dp"
+                                android:layout_width="7.3369140625dp"
+                                android:layout_height="7.3369140625dp" />
+
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2305_ek18"
+                        android:layout_marginTop="64dp"
+                        android:layout_marginStart="94dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/favorites_ek18"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textColor="@color/search_color"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginTop="30dp"
+                            android:layout_width="40dp"
+                            android:layout_height="21dp"
+                            android:text="@string/favorites_ek18_string"
+                            />
+
+                        <ImageView android:id="@+id/icon_metro_heart_ek30"
+                            android:src="@drawable/icon_metro_heart_ek30"
+                            android:contentDescription="icon_metro_heart_ek30"
+                            android:layout_marginLeft="6dp"
+                            android:layout_marginStart="6dp"
+                            android:layout_marginTop="-0dp"
+                            android:layout_width="27.876953125dp"
+                            android:layout_height="26.2783203125dp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2309_ek18"
+                        android:layout_marginTop="64dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/home_ek18"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textColor="@color/_______________ek2_color"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginTop="30dp"
+                            android:layout_width="28dp"
+                            android:layout_height="21dp"
+                            android:text="@string/home_ek18_string"
+                            />
+
+                        <ImageView android:id="@+id/icon_open_home_ek18"
+                            android:src="@drawable/icon_open_home_ek18"
+                            android:contentDescription="icon_open_home_ek18"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginStart="-2dp"
+                            android:layout_marginTop="-1dp"
+                            android:layout_width="32.4912109375dp"
+                            android:layout_height="26.875dp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2307_ek18"
+                        android:layout_marginTop="66dp"
+                        android:layout_marginStart="316dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/settings_ek18"
+                            android:fontFamily="Nunito"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textColor="@color/search_color"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginTop="26dp"
+                            android:layout_width="36dp"
+                            android:layout_height="21dp"
+                            android:text="@string/settings_ek18_string"
+                            />
+
+
+                        <RelativeLayout android:id="@+id/group_2304_ek18"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginStart="3dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <ImageView android:id="@+id/path_2140_ek18"
+                                android:src="@drawable/path_2140_ek18"
+                                android:contentDescription="path_2140_ek18"
+                                android:layout_marginLeft="-1dp"
+                                android:layout_marginStart="-1dp"
+                                android:layout_marginTop="-1dp"
+                                android:layout_width="30.6982421875dp"
+                                android:layout_height="1dp" />
+
+                            <ImageView android:id="@+id/path_2141_ek18"
+                                android:src="@drawable/path_2141_ek18"
+                                android:contentDescription="path_2141_ek18"
+                                android:layout_marginLeft="-1dp"
+                                android:layout_marginStart="-1dp"
+                                android:layout_marginTop="10dp"
+                                android:layout_width="30.6982421875dp"
+                                android:layout_height="1dp" />
+
+                            <ImageView android:id="@+id/path_2142_ek18"
+                                android:src="@drawable/path_2142_ek18"
+                                android:contentDescription="path_2142_ek18"
+                                android:layout_marginLeft="-1dp"
+                                android:layout_marginStart="-1dp"
+                                android:layout_marginTop="20dp"
+                                android:layout_width="30.6982421875dp"
+                                android:layout_height="1dp" />
+
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2312_ek18"
+                        android:layout_marginTop="56dp"
+                        android:layout_marginStart="165dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/your_posts_ek18"
+                            android:fontFamily="Nunito"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textColor="@color/search_color"
+                            android:layout_marginLeft="-2dp"
+                            android:layout_marginTop="38dp"
+                            android:layout_width="50dp"
+                            android:layout_height="21dp"
+                            android:text="@string/your_posts_ek18_string"
+                            />
+
+                        <ImageView android:id="@+id/writing_ek18"
+                            android:src="@drawable/writing_ek18"
+                            android:contentDescription="writing_ek18"
+                            android:layout_marginLeft="3dp"
+                            android:layout_marginStart="3dp"
+                            android:layout_marginTop="-1dp"
+                            android:layout_width="43.724609375dp"
+                            android:layout_height="35.791015625dp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout android:id="@+id/group_2314_ek18"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="17dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <View android:id="@+id/rectangle_2338_ek18"
+                            android:background="@drawable/rectangle_2338_ek18_shape"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="343dp"
+                            android:layout_height="53dp" />
+
+
+                        <RelativeLayout android:id="@+id/group_2313_ek18"
+                            android:layout_marginTop="6dp"
+                            android:layout_marginStart="296dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View android:id="@+id/ellipse_620_ek18"
+                                android:background="@drawable/ellipse_620_ek18_shape"
+                                android:layout_marginLeft="0dp"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="41dp"
+                                android:layout_height="41dp" />
+
+                            <ImageView android:id="@+id/icon_material_edit_ek19"
+                                android:src="@drawable/icon_material_edit_ek19"
+                                android:contentDescription="icon_material_edit_ek19"
+                                android:layout_marginLeft="11dp"
+                                android:layout_marginStart="11dp"
+                                android:layout_marginTop="11dp"
+                                android:layout_width="17.00390625dp"
+                                android:layout_height="17.00390625dp" />
+
+                        </RelativeLayout>
+
+                        <TextView android:id="@+id/_________________________________________________________________________ek18"
+                            android:fontFamily="Montserrat"
+                            android:textStyle="bold"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:textSize="11sp"
+                            android:textColor="@color/_______________ek2_color"
+                            android:layout_marginLeft="30dp"
+                            android:layout_marginTop="11dp"
+                            android:layout_width="244dp"
+                            android:layout_height="37.5dp"
+                            android:text="@string/_________________________________________________________________________ek18_string"
+                            />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </ScrollView>
+    </HorizontalScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

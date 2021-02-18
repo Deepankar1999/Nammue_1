@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nammur_public_news">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity android:name=".Real_Estate_1"></activity>
+        <activity android:name=".Otp_3" />
+        <activity android:name=".Reporter_Registration_1" />
+        <activity android:name=".Registration__10" />
+        <activity android:name=".Registration__9" />
+        <activity android:name=".Otp__2" />
+        <activity android:name=".UserRegistration__1" />
+        <activity android:name=".PaidAd_5" />
+        <activity android:name=".Sales__14" />
+        <activity android:name=".categories_10" />
+        <activity android:name=".News_and_information_5" />
+        <activity android:name=".categories_9" />
+        <activity android:name=".Categories_8" />
+        <activity android:name=".favorites__9" />
+        <activity android:name=".Favorites__8" />
+        <activity android:name=".Profile__4" />
+        <activity android:name=".Videos__2" />
+        <activity android:name=".categories_details__4" />
+        <activity android:name=".categories__5" />
+        <activity android:name=".search__4" />
+        <activity android:name=".helpline__10" />
+        <activity android:name=".fruits__2" />
+        <activity android:name=".Fruits_Selection__5" />
+        <activity android:name=".sales__13" />
+        <activity android:name=".News__9" />
+        <activity android:name=".news__15" />
+        <activity android:name=".choose_location__5" />
+        <activity android:name=".choose_Language__4" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
