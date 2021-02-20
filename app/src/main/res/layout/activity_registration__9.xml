@@ -55,7 +55,7 @@
                         android:background="@drawable/rectangle_2506_ek8_shape" />
 
 
-                    <TextView
+                    <EditText
                         android:id="@+id/_____________ek12"
                         android:layout_width="110dp"
                         android:layout_height="32dp"
@@ -82,7 +82,7 @@
                         android:textColor="@color/________________color"
                         android:textSize="14sp" />
 
-                    <TextView
+                    <EditText
                         android:id="@+id/_________ek20"
                         android:layout_width="54dp"
                         android:layout_height="29dp"

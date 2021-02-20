@@ -36,21 +36,30 @@
                         android:layout_width="375dp"
                         android:layout_height="993dp" />
 
-                    <View android:id="@+id/rectangle_2505_ek1"
-                        android:background="@drawable/rectangle_2505_ek1_shape"
-                        android:layout_marginLeft="17dp"
-                        android:layout_marginStart="17dp"
-                        android:layout_marginTop="123dp"
+                    <EditText
+                        android:id="@+id/rectangle_2505_ek1"
                         android:layout_width="344dp"
-                        android:layout_height="54dp" />
+                        android:layout_height="54dp"
+                        android:layout_marginStart="17dp"
+                        android:layout_marginLeft="17dp"
+                        android:layout_marginTop="123dp"
+                        android:background="@drawable/rectangle_2505_ek1_shape"
 
-                    <View android:id="@+id/rectangle_2506_ek3"
+
+                        android:hint="FullName"
+                        android:inputType="textShortMessage" />
+
+                    <EditText android:id="@+id/rectangle_2506_ek3"
                         android:background="@drawable/rectangle_2506_ek3_shape"
                         android:layout_marginLeft="17dp"
                         android:layout_marginStart="17dp"
                         android:layout_marginTop="189dp"
                         android:layout_width="344dp"
-                        android:layout_height="54dp" />
+                        android:layout_height="54dp"
+                        android:hint="Phone Nummber"
+                        android:inputType="number"
+
+                        />
 
                     <View android:id="@+id/rectangle_2551"
                         android:background="@drawable/rectangle_2551_shape"
@@ -84,13 +93,17 @@
                         android:layout_width="344dp"
                         android:layout_height="54dp" />
 
-                    <View android:id="@+id/rectangle_2557"
+                    <EditText android:id="@+id/rectangle_2557"
                         android:background="@drawable/rectangle_2557_shape"
                         android:layout_marginLeft="17dp"
                         android:layout_marginStart="17dp"
                         android:layout_marginTop="676dp"
                         android:layout_width="344dp"
-                        android:layout_height="54dp" />
+                        android:layout_height="54dp"
+                        android:text="Password"
+                        android:inputType="textPassword"
+
+                        />
 
                     <View android:id="@+id/rectangle_2555"
                         android:background="@drawable/rectangle_2555_shape"
@@ -100,13 +113,16 @@
                         android:layout_width="344dp"
                         android:layout_height="54dp" />
 
-                    <View android:id="@+id/rectangle_2556"
+                    <EditText android:id="@+id/rectangle_2556"
                         android:background="@drawable/rectangle_2556_shape"
                         android:layout_marginLeft="17dp"
                         android:layout_marginStart="17dp"
                         android:layout_marginTop="741dp"
                         android:layout_width="344dp"
-                        android:layout_height="54dp" />
+                        android:layout_height="54dp"
+                        android:text="Confirm Password"
+
+                        />
 
 
                     <TextView android:id="@+id/________ek18"
@@ -118,35 +134,9 @@
                         android:textColor="@color/________________color"
                         android:layout_marginLeft="143dp"
                         android:layout_marginTop="58dp"
-                        android:layout_width="84dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="32dp"
                         android:text="@string/________ek18_string"
-                        />
-
-                    <TextView android:id="@+id/_____________ek6"
-                        android:fontFamily="Montserrat"
-                        android:layout_gravity="center_horizontal|center"
-                        android:gravity="center"
-                        android:textSize="14sp"
-                        android:textColor="@color/________________color"
-                        android:layout_marginLeft="24dp"
-                        android:layout_marginTop="139dp"
-                        android:layout_width="90dp"
-                        android:layout_height="29dp"
-                        android:text="@string/_____________ek6_string"
-                        />
-
-                    <TextView android:id="@+id/________________ek8"
-                        android:fontFamily="Montserrat"
-                        android:layout_gravity="center_horizontal|center"
-                        android:gravity="center"
-                        android:textSize="14sp"
-                        android:textColor="@color/________________color"
-                        android:layout_marginLeft="32dp"
-                        android:layout_marginTop="205dp"
-                        android:layout_width="112dp"
-                        android:layout_height="29dp"
-                        android:text="@string/________________ek8_string"
                         />
 
                     <TextView android:id="@+id/_____________ek7"
@@ -157,7 +147,7 @@
                         android:textColor="@color/________________color"
                         android:layout_marginLeft="29dp"
                         android:layout_marginTop="365dp"
-                        android:layout_width="74dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="29dp"
                         android:text="@string/_____________ek7_string"
                         />
@@ -183,7 +173,7 @@
                         android:textColor="@color/________________color"
                         android:layout_marginLeft="29dp"
                         android:layout_marginTop="497dp"
-                        android:layout_width="30dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="29dp"
                         android:text="@string/________ek19_string"
                         />
@@ -196,22 +186,9 @@
                         android:textColor="@color/________________color"
                         android:layout_marginLeft="29dp"
                         android:layout_marginTop="562dp"
-                        android:layout_width="60dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="29dp"
                         android:text="@string/__________ek11_string"
-                        />
-
-                    <TextView android:id="@+id/_______________________ek1"
-                        android:fontFamily="Montserrat"
-                        android:layout_gravity="center_horizontal|center"
-                        android:gravity="center"
-                        android:textSize="14sp"
-                        android:textColor="@color/________________color"
-                        android:layout_marginLeft="29dp"
-                        android:layout_marginTop="692dp"
-                        android:layout_width="142dp"
-                        android:layout_height="29dp"
-                        android:text="@string/_______________________ek1_string"
                         />
 
                     <TextView android:id="@+id/_________ek12"
@@ -222,22 +199,9 @@
                         android:textColor="@color/________________color"
                         android:layout_marginLeft="29dp"
                         android:layout_marginTop="627dp"
-                        android:layout_width="74dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="29dp"
                         android:text="@string/_________ek12_string"
-                        />
-
-                    <TextView android:id="@+id/___________________________ek1"
-                        android:fontFamily="Montserrat"
-                        android:layout_gravity="center_horizontal|center"
-                        android:gravity="center"
-                        android:textSize="14sp"
-                        android:textColor="@color/________________color"
-                        android:layout_marginLeft="27dp"
-                        android:layout_marginTop="757dp"
-                        android:layout_width="180dp"
-                        android:layout_height="29dp"
-                        android:text="@string/___________________________ek1_string"
                         />
 
                     <TextView android:id="@+id/______ek11"
@@ -272,105 +236,42 @@
                         android:layout_height="11.93212890625dp" />
 
 
-                    <RelativeLayout android:id="@+id/group_2382"
+                    <RadioButton android:id="@+id/group_2382"
                         android:layout_marginTop="304dp"
                         android:layout_marginStart="19dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="70dp"
+                        android:layout_height="29dp"
+                        android:text="Male"
                         >
 
-                        <TextView android:id="@+id/______ek12"
-                            android:fontFamily="Montserrat"
-                            android:layout_gravity="center_horizontal|center"
-                            android:gravity="center"
-                            android:textSize="14sp"
-                            android:textColor="@color/________________color"
-                            android:layout_marginLeft="26dp"
-                            android:layout_marginTop="0dp"
-                            android:layout_width="38dp"
-                            android:layout_height="29dp"
-                            android:text="@string/______ek12_string"
-                            />
 
-                        <View android:id="@+id/ellipse_670_ek1"
-                            android:background="@drawable/ellipse_670_ek1_shape"
-                            android:layout_marginLeft="0dp"
-                            android:layout_marginStart="0dp"
-                            android:layout_marginTop="1dp"
-                            android:layout_width="20dp"
-                            android:layout_height="20dp" />
-
-                    </RelativeLayout>
+                    </RadioButton>
 
 
-                    <RelativeLayout android:id="@+id/group_2383"
+                    <RadioButton android:id="@+id/group_2383"
                         android:layout_marginTop="304dp"
                         android:layout_marginStart="260dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="100dp"
+                        android:layout_height="29dp"
+                        android:text="Others"
                         >
 
-                        <TextView android:id="@+id/_______ek9"
-                            android:fontFamily="Montserrat"
-                            android:layout_gravity="center_horizontal|center"
-                            android:gravity="center"
-                            android:textSize="14sp"
-                            android:textColor="@color/________________color"
-                            android:layout_marginLeft="26dp"
-                            android:layout_marginTop="0dp"
-                            android:layout_width="48dp"
-                            android:layout_height="29dp"
-                            android:text="@string/_______ek9_string"
-                            />
-
-                        <View android:id="@+id/ellipse_681"
-                            android:background="@drawable/ellipse_681_shape"
-                            android:layout_marginLeft="0dp"
-                            android:layout_marginStart="0dp"
-                            android:layout_marginTop="1dp"
-                            android:layout_width="20dp"
-                            android:layout_height="20dp" />
-
-                    </RelativeLayout>
 
 
-                    <RelativeLayout android:id="@+id/group_2381"
+                    </RadioButton>
+
+
+                    <RadioButton android:id="@+id/group_2381"
                         android:layout_marginTop="304dp"
                         android:layout_marginStart="132dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="100dp"
+                        android:layout_height="29dp"
+                        android:text="Female"
                         >
 
-                        <TextView android:id="@+id/________ek20"
-                            android:fontFamily="Montserrat"
-                            android:layout_gravity="center_horizontal|center"
-                            android:gravity="center"
-                            android:textSize="14sp"
-                            android:textColor="@color/________________color"
-                            android:layout_marginLeft="26dp"
-                            android:layout_marginTop="0dp"
-                            android:layout_width="40dp"
-                            android:layout_height="29dp"
-                            android:text="@string/________ek20_string"
-                            />
 
-                        <View android:id="@+id/ellipse_671_ek1"
-                            android:background="@drawable/ellipse_671_ek1_shape"
-                            android:layout_marginLeft="0dp"
-                            android:layout_marginStart="0dp"
-                            android:layout_marginTop="1dp"
-                            android:layout_width="20dp"
-                            android:layout_height="20dp" />
 
-                        <View android:id="@+id/ellipse_677_ek1"
-                            android:background="@drawable/ellipse_677_ek1_shape"
-                            android:layout_marginLeft="3dp"
-                            android:layout_marginStart="3dp"
-                            android:layout_marginTop="4dp"
-                            android:layout_width="12dp"
-                            android:layout_height="12dp" />
-
-                    </RelativeLayout>
+                    </RadioButton>
 
                     <ImageView android:id="@+id/icon_awesome_calendar_alt_ek2"
                         android:src="@drawable/icon_awesome_calendar_alt_ek2"
@@ -381,25 +282,25 @@
                         android:layout_width="19.6171875dp"
                         android:layout_height="22.41943359375dp" />
 
-                    <ImageView android:id="@+id/path_2205"
+                    <Spinner android:id="@+id/path_2205"
                         android:src="@drawable/path_2205"
-                        android:contentDescription="path_2205"
+
                         android:layout_marginLeft="328dp"
                         android:layout_marginStart="328dp"
                         android:layout_marginTop="503dp"
                         android:layout_width="15.34765625dp"
                         android:layout_height="8.380859375dp" />
 
-                    <ImageView android:id="@+id/path_2206"
+                    <Spinner android:id="@+id/path_2206"
                         android:src="@drawable/path_2206"
-                        android:contentDescription="path_2206"
+
                         android:layout_marginLeft="328dp"
                         android:layout_marginStart="328dp"
                         android:layout_marginTop="568dp"
                         android:layout_width="15.34765625dp"
                         android:layout_height="8.380859375dp" />
 
-                    <ImageView android:id="@+id/path_2207"
+                    <Spinner android:id="@+id/path_2207"
                         android:src="@drawable/path_2207"
                         android:contentDescription="path_2207"
                         android:layout_marginLeft="328dp"
